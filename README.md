@@ -33,24 +33,19 @@ This project was created as part of an academic course by a multidisciplinary te
 
 ---
 
-## 🚧 Status
+## Status
 This is an **academic project** and not a commercial release.  
 Some features and assets may still be work-in-progress.
 
 ---
 
-## 📷 Media
-*(Screenshots, GIFs, or gameplay videos can be added here to showcase the project)*
-
----
-
-## ▶️ How to Play
+## How to Play
 1. Clone or download the repository.  
 2. Open the project in **Unreal Engine 5**.  
 3. Compile and launch the game.  
 
 ---
 
-## 📜 License
+## License
 This project is for **educational purposes only**.  
 Not intended for commercial use.
